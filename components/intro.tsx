@@ -96,7 +96,7 @@ export default function Intro() {
 
         <a
           className="group bg-white text-gray-700 px-8 py-4 flex items-center gap-3 rounded-full outline-none focus:scale-105 hover:scale-105 active:scale-95 transition-all duration-200 cursor-pointer border border-gray-200 shadow-lg hover:shadow-xl dark:bg-white/10 dark:text-white dark:border-white/20 w-full sm:w-auto justify-center"
-          href="/CV.docx"
+          href="/CV.pdf"
           download
         >
           Download Resume
