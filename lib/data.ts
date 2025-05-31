@@ -66,27 +66,25 @@ export const projectsData = [
     description:
       "Working as a lead engineer at CouponStall, a coupon website.",
     tags: ["Next.js", "Supabase", "Tailwind"],
-    imageUrl: corpcommentImg,
+    imageUrl: "/coupnstall.png",
   },
   {
     title: "ScrollConnect",
     description:
       "Platform for college students where they can connect with each other and explore college events.",
     tags: ["Next.js", "Tailwind", "Supabase"],
-    imageUrl: rmtdevImg,
+    imageUrl: "/scrollconnect.png",
   },
   {
     title: "topsqill.com",
     description:
       "Focus on providing solutions to industrial giants to manage their data effectively.",
     tags: ["React.js", "Tailwind", "Google Cloud Platform", "Node.js"],
-    imageUrl: rmtdevImg,
+    imageUrl: "/topsqill.png",
   },
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
   "JavaScript",
   "TypeScript",
   "React",
